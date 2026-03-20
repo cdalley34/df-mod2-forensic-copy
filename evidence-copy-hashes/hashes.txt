@@ -1,0 +1,9 @@
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          B80012851CF027C6D8ADDA328907D400C95773958FB4FEC3E544A02CD5EEAB0E       C:\Users\cdall\Documents\df-mod2-forensic-copy\evidence-copy\file1.txt
+SHA256          E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855       C:\Users\cdall\Documents\df-mod2-forensic-copy\evidence-copy\file2.txt
+SHA256          E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855       C:\Users\cdall\Documents\df-mod2-forensic-copy\evidence-copy\file3.txt
+SHA256          E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855       C:\Users\cdall\Documents\df-mod2-forensic-copy\evidence-copy\file4.txt
+SHA256          E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855       C:\Users\cdall\Documents\df-mod2-forensic-copy\evidence-copy\file5.txt
+
